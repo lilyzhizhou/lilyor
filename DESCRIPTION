@@ -19,3 +19,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     survival
+URL: https://github.com/lilyzhizhou/lilyor
+BugReports: https://github.com/lilyzhizhou/lilyor/issues
